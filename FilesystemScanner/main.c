@@ -1,4 +1,11 @@
-#define _DEFAULT_SOURCE
+/* 
+ * Author: Luke Hindman
+ * Date: Thu 05 Nov 2020 08:10:44 AM PST
+ * Description:  Adapted from the Simple Directory Lister Mark II example
+ *    provided in the libc manual.
+ * https://www.gnu.org/software/libc/manual/html_node/Simple-Directory-Lister-Mark-II.html
+ */
+#define _GNU_SOURCE
 #include <stdio.h>
 #include <stdlib.h>
 #include <dirent.h>
