@@ -1,7 +1,13 @@
 {
 	"folders": [
 		{
-			"path": "MyApp"
+			"path": "GetOpt"
+		},
+		{
+			"path": "FilesystemWalker"
+		},
+		{
+			"path": "FilesystemScanner"
 		}
 	],
 	"settings": {
